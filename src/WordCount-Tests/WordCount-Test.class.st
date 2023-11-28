@@ -6,7 +6,7 @@ Class {
 
 { #category : #tests }
 WordCount-Test >> testHamlet [
-"Dummy test funcion. Just select code and use Ctrl-I for inspection."
+	"Dummy test funcion. Just select code and use Ctrl-I for inspection."
 
 	((((ZnClient new
 		    beOneShot;
